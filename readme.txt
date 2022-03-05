@@ -1,2 +1,2 @@
 git is a version control system.
-add second line.
+git is a free software.
